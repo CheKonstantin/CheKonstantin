@@ -1,4 +1,10 @@
-## Всем привет меня зовут Константин 👋
+## Всем привет меня зовут Константин. Я фронтенд разработчик 👋
+
+### Технологии с которыми я работаю
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s" alt="js" height="50" width="auto" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1200px-Unofficial_JavaScript_logo_2.svg.png" alt="js" height="50" width="auto" /> <img src="https://static.wikia.nocookie.net/wikies/images/a/a9/CSS3.png/revision/latest?cb=20160909123652&path-prefix=ru" alt="js" height="50" width="auto" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfwSdXKlV59MMakovn5FMr02-xSB5pg-mbkQ&s" height="50" width="auto" />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAsoAHcu7RzGzUcl-dOR1_yx8ij4XXvGdeaQ&s" alt="react" height="50" width="auto" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
